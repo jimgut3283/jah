@@ -3,7 +3,10 @@ body {
   background: #009bce;
   color: black;
   text-align: center;
-  border-style: dotted;
+  border-top-style: solid;
+  border-right-style: dotted;
+  border-bottom-style: solid;
+  border-left-style: dotted;
   border-width:5px;
   border-color: Black Red Black Red;
 }
