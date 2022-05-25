@@ -4,7 +4,8 @@ body {
   color: black;
   text-align: center;
   border-style: dotted;
-  border-color: green green green green;
+  border-width:5px;
+  border-color: Black Red Black Red;
 }
 h1 {
   font-size: 50px;
