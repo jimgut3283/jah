@@ -1,10 +1,10 @@
 body {
-  font-family: Comic Sans MS;
+  font-family: Arial;
   background: #009bce;
   color: black;
   text-align: center;
   border-style: dotted;
-  border-color: red white blue;
+  border-color: green green green green;
 }
 h1 {
   font-size: 50px;
