@@ -1,0 +1,12 @@
+body {
+  font-family: Comic Sans MS;
+  background: #009bce;
+  color: black;
+  text-align: center;
+  border-style: dotted;
+  border-color: red white blue;
+}
+h1 {
+  font-size: 50px;
+  color: red;
+}
