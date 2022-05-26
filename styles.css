@@ -1,16 +1,16 @@
 body {
   font-family: Arial;
-  background: #009bce;
+  background: #04c96d;
   color: black;
   text-align: center;
   border-top-style: solid;
   border-right-style: dotted;
   border-bottom-style: solid;
   border-left-style: dotted;
-  border-width:5px;
+  border-width:10px;
   border-color: Black Red Black Red;
 }
 h1 {
-  font-size: 50px;
-  color: red;
+  font-size: 40px;
+  color: Purple;
 }
